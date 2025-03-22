@@ -1,4 +1,5 @@
-# 
+# Full Name
+  Muhammad Luqman Aziem Bin Anor
 
 #### Technical Skills: Python, Java 
 
