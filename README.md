@@ -1,6 +1,6 @@
-Muhammad Luqman Aziem Bin Anor
+# Data Scientist
 
-Diploma in Network Security
+#### Technical Skills: Python, Java 
 
-#Projects
-InjeXcanner
+## Education						       		
+- Diploma | Network Security | German-Malaysian Institute
